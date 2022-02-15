@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Animations
 uid: 9d0f4331-2293-5ac3-d890-c42c5a7570a2
 ---

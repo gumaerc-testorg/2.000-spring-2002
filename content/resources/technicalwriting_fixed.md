@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Technical writing tutorial
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-000-how-and-why-machines-work-spring-2002/6fab0225dee490af7eca58e677ec84cd_technicalwriting_fixed.pdf
+file: /media/courses/2-000-how-and-why-machines-work-spring-2002/6fab0225dee490af7eca58e677ec84cd_technicalwriting_fixed.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: technicalwriting_fixed.pdf
 uid: 6fab0225-dee4-90af-7eca-58e677ec84cd

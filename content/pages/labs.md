@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: dad906e4-1520-d508-5e9a-a500b3834027
 ---
@@ -26,7 +29,7 @@ RESOURCES
 {{< tdclose >}}
 {{< tdopen >}}
 CAD Lab I - CAD Basics  
-\[SolidWorks® or Pro/Engineer®\]
+\[SolidWorks{{< sup "®" >}} or Pro/Engineer{{< sup "®" >}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 Preparation and Reading ([PDF]({{< baseurl >}}/resources/lab1))  

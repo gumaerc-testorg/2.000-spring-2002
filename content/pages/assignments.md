@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f056e4c6-4051-2d6f-74ec-e5ce0d3e6326
 ---
@@ -16,10 +19,10 @@ As each group did not have time to get through all of the processes, **you are o
 
 *   You may work as a group to take the pictures or take pictures individually.
 *   You must do the write up individually.
-*   The homework is posted on the web as a Microsoft® PowerPoint® file.
+*   The homework is posted on the web as a Microsoft{{< sup "®" >}} PowerPoint{{< sup "®" >}} file.
 *   You should download this file so that you can insert/import your pictures into it.
 *   Insert/import your pictures into the file, THEN print the file so that you can write on it.
-*   There are instructions on the web for getting pics from your camera into the Microsoft® PowerPoint® document.
+*   There are instructions on the web for getting pics from your camera into the Microsoft{{< sup "®" >}} PowerPoint{{< sup "®" >}} document.
 
 **What to hand in**
 
@@ -32,7 +35,7 @@ As each group did not have time to get through all of the processes, **you are o
 
 2.000 Graphics Tutorial ([PDF - 2.8 MB]({{< baseurl >}}/resources/graphicstutorial1))
 
-**Microsoft® PowerPoint®** **GUI (Look for GUI section)** ([PDF]({{< baseurl >}}/resources/presentation))
+**Microsoft{{< sup "®" >}} PowerPoint{{< sup "®" >}}** **GUI (Look for GUI section)** ([PDF]({{< baseurl >}}/resources/presentation))
 
 **4\. Machine Components and Systems** ([PDF]({{< baseurl >}}/resources/homework4_machinecomponentsandsystems))
 

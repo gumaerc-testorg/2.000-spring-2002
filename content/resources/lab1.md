@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 2.000 CAD Lab I Details
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-000-how-and-why-machines-work-spring-2002/d8cfe73dcb0d7291a9f74b3607eb7942_lab1.pdf
+file: /media/courses/2-000-how-and-why-machines-work-spring-2002/d8cfe73dcb0d7291a9f74b3607eb7942_lab1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab1.pdf
 uid: d8cfe73d-cb0d-7291-a9f7-4b3607eb7942
