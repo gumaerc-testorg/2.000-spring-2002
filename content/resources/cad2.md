@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1f9b0c81-5680-49b0-50b5-7151f7de710f
 resourcetype: Document
 title: cad2.pdf
 uid: 742a38d6-fdb2-30ef-566b-87079fb4f2f6

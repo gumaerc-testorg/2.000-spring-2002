@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1720348e-b371-3527-976b-1f3a88bd8dd1
 resourcetype: Document
 title: BernoulliEquation.pdf
 uid: a0280a78-c9bb-e84a-5327-8d44ff49586e

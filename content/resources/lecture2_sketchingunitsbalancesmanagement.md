@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0fab8b18-8e5f-9ce5-04a3-bc041dcea1b0
 resourcetype: Document
 title: lecture2_sketchingunitsbalancesmanagement.pdf
 uid: 87856eef-c0c9-66f9-7e80-3c3a7c6a8e14

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1f9b0c81-5680-49b0-50b5-7151f7de710f
 resourcetype: Document
 title: 2_000_DXF_Tutorial.pdf
 uid: 1b56caf7-5c60-2c8d-1a2e-203cdba3ed93

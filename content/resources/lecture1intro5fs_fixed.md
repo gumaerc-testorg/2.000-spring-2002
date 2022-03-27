@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0fab8b18-8e5f-9ce5-04a3-bc041dcea1b0
 resourcetype: Document
 title: lecture1intro5fs_fixed.pdf
 uid: c9706c4d-f4ab-4e5f-e6ae-13665cfb8486

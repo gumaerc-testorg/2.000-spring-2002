@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1720348e-b371-3527-976b-1f3a88bd8dd1
 resourcetype: Document
 title: MassConservation.pdf
 uid: b1f8a80f-df34-bc3d-256a-545484c98a6f

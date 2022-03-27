@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: dad906e4-1520-d508-5e9a-a500b3834027
 resourcetype: Image
 title: ani_revolved_cut.gif
 uid: 51614447-d5e5-0d87-f5ab-3aa013cf9739

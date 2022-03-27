@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1f9b0c81-5680-49b0-50b5-7151f7de710f
 resourcetype: Other
 title: shaft.SLDPRT
 uid: c7cc9c10-3a7c-6772-f7cc-8ff7ba1fe3c4

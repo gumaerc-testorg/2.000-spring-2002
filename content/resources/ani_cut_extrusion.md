@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: dad906e4-1520-d508-5e9a-a500b3834027
 resourcetype: Image
 title: ani_cut_extrusion.gif
 uid: 63ca4fd9-e764-cc9c-0471-c3be5200dfac

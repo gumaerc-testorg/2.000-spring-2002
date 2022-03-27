@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1720348e-b371-3527-976b-1f3a88bd8dd1
 resourcetype: Document
 title: isometricsketchingpaper.pdf
 uid: aae08b2d-6cd7-2152-42a1-d468797c138b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f056e4c6-4051-2d6f-74ec-e5ce0d3e6326
 resourcetype: Document
 title: homework1camera_fixed.pdf
 uid: ed402c74-f0bd-bdd5-17a1-ef9479426bc8

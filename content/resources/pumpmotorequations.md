@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1720348e-b371-3527-976b-1f3a88bd8dd1
 resourcetype: Document
 title: Pumpmotorequations.pdf
 uid: c54ea5ba-6e17-fd2e-ebc5-934e58867b0a

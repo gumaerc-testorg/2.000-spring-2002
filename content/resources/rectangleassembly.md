@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1f9b0c81-5680-49b0-50b5-7151f7de710f
 resourcetype: Other
 title: rectangleassembly.SLDASM
 uid: dfc1095c-bc39-eb83-0d20-c5786119cc44

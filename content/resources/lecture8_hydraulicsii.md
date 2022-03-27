@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0fab8b18-8e5f-9ce5-04a3-bc041dcea1b0
 resourcetype: Document
 title: lecture8_hydraulicsII.pdf
 uid: e7b2394c-a120-0638-b8bb-42ba2b5cdd1e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: dad906e4-1520-d508-5e9a-a500b3834027
 resourcetype: Document
 title: 2000lab2gearstecumseh_fixed.pdf
 uid: c00c2714-6308-3781-07be-fe26769a3442

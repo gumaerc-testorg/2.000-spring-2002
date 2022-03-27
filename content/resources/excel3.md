@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1f9b0c81-5680-49b0-50b5-7151f7de710f
 resourcetype: Document
 title: excel3.pdf
 uid: 094cfec9-15c7-12d5-392b-32d7dae18c5c

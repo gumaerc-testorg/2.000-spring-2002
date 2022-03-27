@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f056e4c6-4051-2d6f-74ec-e5ce0d3e6326
 resourcetype: Document
 title: Homework4_machinecomponentsandsystems.pdf
 uid: 538fffc6-ac65-06d8-e5ad-86716a6eba9c

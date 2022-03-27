@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 1720348e-b371-3527-976b-1f3a88bd8dd1
 resourcetype: Document
 title: Handout1_sketching.pdf
 uid: f693bc9e-06bd-53ad-cf9e-b1ac90d2eb55
