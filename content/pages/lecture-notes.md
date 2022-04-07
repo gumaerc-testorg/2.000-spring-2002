@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 0fab8b18-8e5f-9ce5-04a3-bc041dcea1b0
 ---
@@ -37,10 +38,10 @@ READINGS
 Introduction to 2.000!
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1intro5fs_fixed))
+({{< resource_link c9706c4d-f4ab-4e5f-e6ae-13665cfb8486 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-HW 1 ([PDF]({{< baseurl >}}/resources/homework1camera_fixed))
+HW 1 ({{< resource_link ed402c74-f0bd-bdd5-17a1-ef9479426bc8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -55,15 +56,15 @@ HW 1 ([PDF]({{< baseurl >}}/resources/homework1camera_fixed))
 Flows, Balances, Sketching
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/lecture2_sketchingunitsbalancesmanagement))
+({{< resource_link 87856eef-c0c9-66f9-7e80-3c3a7c6a8e14 "PDF - 1.8 MB" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-HW 2 ([PDF]({{< baseurl >}}/resources/homework2))
+HW 2 ({{< resource_link 1a1ab702-24e1-09cc-51a4-8e65dbfe2fe7 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Project Management ([PDF]({{< baseurl >}}/resources/management))  
-Project Management ([XLS]({{< baseurl >}}/resources/projectmanagement))   
-CAD I ([PDF]({{< baseurl >}}/resources/cad1))
+Project Management ({{< resource_link b1f68e2e-dda6-aa14-09ae-b2d88efd8246 "PDF" >}})  
+Project Management ({{< resource_link 578e7cd9-d6f0-1bbc-4df4-b69fe859e7f0 "XLS" >}})   
+CAD I ({{< resource_link 3bf80add-3f3a-e19a-5845-8255ad088328 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +76,7 @@ CAD I ([PDF]({{< baseurl >}}/resources/cad1))
 Overview Of Mechanical Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3meoverview_fixed))
+({{< resource_link 14a188e6-e341-4d3d-9b66-44c2d3aadac8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -93,10 +94,10 @@ Overview Of Mechanical Engineering
 Manufacturing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4_manufacturing))
+({{< resource_link 1da55f68-e934-54e6-5589-c8adb0dfecb4 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-HW 3 ([PDF]({{< baseurl >}}/resources/homework3_manufacturing))
+HW 3 ({{< resource_link ab618e37-59be-5384-4589-df337ea885f9 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -132,7 +133,7 @@ Machine Components and Systems
  
 {{< tdclose >}}
 {{< tdopen >}}
-HW 4 ([PDF]({{< baseurl >}}/resources/homework4_machinecomponentsandsystems))
+HW 4 ({{< resource_link 538fffc6-ac65-06d8-e5ad-86716a6eba9c "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -150,7 +151,7 @@ Hydraulics I: Components
  
 {{< tdclose >}}
 {{< tdopen >}}
-HW 5 ([PDF]({{< baseurl >}}/resources/homework5etchasketch))
+HW 5 ({{< resource_link f1716fa7-73c3-c955-7e96-b4e5b47e93f4 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -165,15 +166,15 @@ HW 5 ([PDF]({{< baseurl >}}/resources/homework5etchasketch))
 Hydraulics II: Systems and Project I Kick Off
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8_hydraulicsii))
+({{< resource_link e7b2394c-a120-0638-b8bb-42ba2b5cdd1e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Project I ([PDF]({{< baseurl >}}/resources/2000project1gearpump1_fixed))  
+Project I ({{< resource_link a8bc189a-a86a-22ae-9045-7496725fc7a9 "PDF" >}})  
 See updated timeline in Lecture 9
 {{< tdclose >}}
 {{< tdopen >}}
-Project Management ([PDF]({{< baseurl >}}/resources/management))  
-Project Management ([XLS]({{< baseurl >}}/resources/projectmanagement))
+Project Management ({{< resource_link b1f68e2e-dda6-aa14-09ae-b2d88efd8246 "PDF" >}})  
+Project Management ({{< resource_link 578e7cd9-d6f0-1bbc-4df4-b69fe859e7f0 "XLS" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Project Management ([XLS]({{< baseurl >}}/resources/projectmanagement))
 Hydraulics III and Basic EM Machines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9_hydraulicsiiiandemmachines_1))
+({{< resource_link 23ed43a0-031d-3d63-fcb3-ef3ce9c53b7b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -203,7 +204,7 @@ Hydraulics III and Basic EM Machines
 Thermodynamics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10_thermodynamics_3))
+({{< resource_link 75ad367a-3c4d-31e6-77b7-9184ecca4f4a "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  

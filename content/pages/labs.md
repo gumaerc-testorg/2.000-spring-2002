@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+parent_uid: null
 title: Labs
 uid: dad906e4-1520-d508-5e9a-a500b3834027
 ---
@@ -32,8 +33,8 @@ CAD Lab I - CAD Basics
 \[SolidWorks{{< sup "®" >}} or Pro/Engineer{{< sup "®" >}}\]
 {{< tdclose >}}
 {{< tdopen >}}
-Preparation and Reading ([PDF]({{< baseurl >}}/resources/lab1))  
-Introduction to Solid Modeling ([PDF]({{< baseurl >}}/resources/cad1))
+Preparation and Reading ({{< resource_link d8cfe73d-cb0d-7291-a9f7-4b3607eb7942 "PDF" >}})  
+Introduction to Solid Modeling ({{< resource_link 3bf80add-3f3a-e19a-5845-8255ad088328 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,8 +46,8 @@ Introduction to Solid Modeling ([PDF]({{< baseurl >}}/resources/cad1))
 Transmissions
 {{< tdclose >}}
 {{< tdopen >}}
-Preparation and Reading ([PDF]({{< baseurl >}}/resources/lab2))  
-Lab 2 ([PDF]({{< baseurl >}}/resources/2000lab2gearstecumseh_fixed))
+Preparation and Reading ({{< resource_link 58958781-a54e-2c26-16d4-6477f6e42a93 "PDF" >}})  
+Lab 2 ({{< resource_link c00c2714-6308-3781-07be-fe26769a3442 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
