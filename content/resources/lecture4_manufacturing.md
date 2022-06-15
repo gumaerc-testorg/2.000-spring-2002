@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '2.000 How and Why Machines Work, Lecture # 4'
-file: /media/courses/2-000-how-and-why-machines-work-spring-2002/1da55f68e93454e65589c8adb0dfecb4_lecture4_manufacturing.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/1da55f68e93454e65589c8adb0dfecb4_lecture4_manufacturing.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lecture4_manufacturing.pdf
 uid: 1da55f68-e934-54e6-5589-c8adb0dfecb4
 ---
+2.000 How and Why Machines Work, Lecture # 4
+
