@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ani_shell.gif
 uid: bca1fec7-6253-8c94-df95-ce8b6271f831
 ---
 SolidWorks? animation.
-

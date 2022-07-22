@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ani_funky_extursion.gif
 uid: 4927ae9b-d58b-c0f7-243e-53a30dbf72f2
 ---
 SolidWorks? visualization.
-

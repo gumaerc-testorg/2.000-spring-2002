@@ -5,6 +5,7 @@ file: /courses/2-000-how-and-why-machines-work-spring-2002/3354c4dc89e6448943024
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: presentation.pdf
 uid: 3354c4dc-89e6-4489-4302-481137b1c2a0
 ---
 Microsoft PowerPoint tutorial
-

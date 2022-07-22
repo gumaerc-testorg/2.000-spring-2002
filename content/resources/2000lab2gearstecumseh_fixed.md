@@ -5,6 +5,7 @@ file: /courses/2-000-how-and-why-machines-work-spring-2002/c00c27146308378107bef
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2000lab2gearstecumseh_fixed.pdf
 uid: c00c2714-6308-3781-07be-fe26769a3442
 ---
 2.000 Lab # 2 ? Tecumseh Transmission
-

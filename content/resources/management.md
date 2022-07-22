@@ -5,6 +5,7 @@ file: /courses/2-000-how-and-why-machines-work-spring-2002/b1f68e2edda6aa1409aeb
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: management.pdf
 uid: b1f68e2e-dda6-aa14-09ae-b2d88efd8246
 ---
 Project management tutorial
-

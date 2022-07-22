@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ani_revolved_cut.gif
 uid: 51614447-d5e5-0d87-f5ab-3aa013cf9739
 ---
 SolidWorks? animation.
-

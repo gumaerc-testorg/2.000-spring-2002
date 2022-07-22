@@ -5,6 +5,7 @@ file: /courses/2-000-how-and-why-machines-work-spring-2002/ab618e3759be53844589d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework3_manufacturing.pdf
 uid: ab618e37-59be-5384-4589-df337ea885f9
 ---
 2.000 Homework # 3: Manufacturing
-

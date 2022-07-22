@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ani_lofted_extrusion.gif
 uid: f238fb71-6b59-48c4-46f8-3afe10ff9d2d
 ---
 SolidWorks? visualization.
-

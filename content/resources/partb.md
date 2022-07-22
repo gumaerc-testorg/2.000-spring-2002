@@ -5,6 +5,7 @@ file: /courses/2-000-how-and-why-machines-work-spring-2002/a804fd323c1d713eda691
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PartB.SLDPRT
 uid: a804fd32-3c1d-713e-da69-12a04334ba38
 ---
 Part-B
-

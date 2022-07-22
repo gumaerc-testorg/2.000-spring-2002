@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ani_sweep_extrusion.gif
 uid: 4950b45d-b783-e384-b4b6-8cff7ca1f140
 ---
 SolidWorks? animation.
-

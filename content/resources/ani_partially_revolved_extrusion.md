@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: ani_partially_revolved_extrusion.gif
 uid: a4dd1116-1594-5c91-9b74-f0bf4b99fdcb
 ---
 A SolidWorks? model of a partially revolved extrusion. (Image by Prof. Martin Culpepper.)
-
