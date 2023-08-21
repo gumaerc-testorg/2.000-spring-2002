@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 2.000 Homework # 4: Machine components
-
