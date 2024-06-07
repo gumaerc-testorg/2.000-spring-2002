@@ -2,6 +2,7 @@
 content_type: resource
 description: 2.000 CAD Lab I Details
 file: /courses/2-000-how-and-why-machines-work-spring-2002/d8cfe73dcb0d7291a9f74b3607eb7942_lab1.pdf
+file_size: 131056
 file_type: application/pdf
 learning_resource_types:
 - Labs

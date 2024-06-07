@@ -2,6 +2,7 @@
 content_type: resource
 description: SolidWorks? animation.
 file: /courses/2-000-how-and-why-machines-work-spring-2002/4950b45db783e384b4b68cff7ca1f140_ani_sweep_extrusion.gif
+file_size: 12609
 file_type: image/gif
 image_metadata:
   caption: ''

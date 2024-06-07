@@ -2,6 +2,7 @@
 content_type: resource
 description: Machines that Store and Transfer Energy
 file: /courses/2-000-how-and-why-machines-work-spring-2002/75ad367a3c4d31e677b79184ecca4f4a_lecture10_thermodynamics_3.pdf
+file_size: 486059
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
