@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to handout sketching of tractor
   transmission.
 file: /courses/2-000-how-and-why-machines-work-spring-2002/f693bc9e06bd53adcf9eb1ac90d2eb55_Handout1_sketching.pdf
+file_size: 2573661
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
