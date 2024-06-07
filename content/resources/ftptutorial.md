@@ -2,6 +2,7 @@
 content_type: resource
 description: FTP Tutorial
 file: /courses/2-000-how-and-why-machines-work-spring-2002/bccac0a0b83e971148f971d795ddb7bb_ftptutorial.pdf
+file_size: 111891
 file_type: application/pdf
 learning_resource_types:
 - Tools

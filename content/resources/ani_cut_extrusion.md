@@ -2,6 +2,7 @@
 content_type: resource
 description: SolidWorks? visualization.
 file: /courses/2-000-how-and-why-machines-work-spring-2002/63ca4fd9e764cc9c0471c3be5200dfac_ani_cut_extrusion.gif
+file_size: 2885
 file_type: image/gif
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Grid Sketching Paper
 file: /courses/2-000-how-and-why-machines-work-spring-2002/93a444ca79e097d27f360cb2d0b05c4a_gridsketchingpaper.pdf
+file_size: 5571
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
