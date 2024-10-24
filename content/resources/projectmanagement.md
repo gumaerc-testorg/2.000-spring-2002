@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Gantt Chart
-file: /courses/2-000-how-and-why-machines-work-spring-2002/578e7cd9d6f01bbc4df4b69fe859e7f0_projectmanagement.xls
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/578e7cd9d6f01bbc4df4b69fe859e7f0_projectmanagement.xls
 file_size: 146944
 file_type: application/msword
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SolidWorks? visualization.
-file: /courses/2-000-how-and-why-machines-work-spring-2002/4927ae9bd58bc0f7243e53a30dbf72f2_ani_funky_extursion.gif
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/4927ae9bd58bc0f7243e53a30dbf72f2_ani_funky_extursion.gif
 file_size: 11407
 file_type: image/gif
 image_metadata:

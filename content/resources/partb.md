@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Part-B
-file: /courses/2-000-how-and-why-machines-work-spring-2002/a804fd323c1d713eda6912a04334ba38_PartB.SLDPRT
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/a804fd323c1d713eda6912a04334ba38_PartB.SLDPRT
 file_size: 82944
 file_type: application/msword
 learning_resource_types:
