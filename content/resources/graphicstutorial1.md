@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: GRAPHICS TUTORIAL - Creating and Editing Graphics
-file: /courses/2-000-how-and-why-machines-work-spring-2002/de9a861ede8f57432f3e11105cae40ab_graphicstutorial1.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/de9a861ede8f57432f3e11105cae40ab_graphicstutorial1.pdf
 file_size: 2895958
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bernoulli?s Equation
-file: /courses/2-000-how-and-why-machines-work-spring-2002/a0280a78c9bbe84a53278d44ff49586e_BernoulliEquation.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/a0280a78c9bbe84a53278d44ff49586e_BernoulliEquation.pdf
 file_size: 39308
 file_type: application/pdf
 learning_resource_types: []
