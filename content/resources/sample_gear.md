@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample gear
-file: /courses/2-000-how-and-why-machines-work-spring-2002/9673451bc203d2d46254387007eb8a5b_sample_gear.SLDPRT
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/9673451bc203d2d46254387007eb8a5b_sample_gear.SLDPRT
 file_size: 203264
 file_type: application/msword
 learning_resource_types:

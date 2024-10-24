@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SolidWorks? visualization.
-file: /courses/2-000-how-and-why-machines-work-spring-2002/f238fb716b5948c446f83afe10ff9d2d_ani_lofted_extrusion.gif
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/f238fb716b5948c446f83afe10ff9d2d_ani_lofted_extrusion.gif
 file_size: 4194
 file_type: image/gif
 image_metadata:
