@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '2.000 Homework # 1: Disposable Camera'
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/ed402c74f0bdbdd517a1ef9479426bc8_homework1camera_fixed.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/ed402c74f0bdbdd517a1ef9479426bc8_homework1camera_fixed.pdf
 file_size: 193024
 file_type: application/pdf
 learning_resource_types:

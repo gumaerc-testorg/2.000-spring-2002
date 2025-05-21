@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reynolds Number & Pipe Flow
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/26dc066d664a997bf0101fa4c48fccf7_TurbulentFlow.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/26dc066d664a997bf0101fa4c48fccf7_TurbulentFlow.pdf
 file_size: 31329
 file_type: application/pdf
 learning_resource_types: []

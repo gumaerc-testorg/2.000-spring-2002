@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Hydraulic machines and systems II '
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/e7b2394ca1200638b8bb42ba2b5cdd1e_lecture8_hydraulicsII.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/e7b2394ca1200638b8bb42ba2b5cdd1e_lecture8_hydraulicsII.pdf
 file_size: 178828
 file_type: application/pdf
 learning_resource_types:

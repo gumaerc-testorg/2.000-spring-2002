@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excel Tutorial - Part II
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/e52720c407f600388f78c4439ce5bebd_excel2.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/e52720c407f600388f78c4439ce5bebd_excel2.pdf
 file_size: 98981
 file_type: application/pdf
 learning_resource_types:
