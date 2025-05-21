@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Parent-child
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/216d7b60e42e9e62abb565ed14fa92d2_parentchild.SLDPRT
+file: /courses/2-000-how-and-why-machines-work-spring-2002/216d7b60e42e9e62abb565ed14fa92d2_parentchild.SLDPRT
 file_size: 98816
 file_type: application/msword
 learning_resource_types:

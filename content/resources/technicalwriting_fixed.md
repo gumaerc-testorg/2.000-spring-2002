@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Technical writing tutorial
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/6fab0225dee490af7eca58e677ec84cd_technicalwriting_fixed.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/6fab0225dee490af7eca58e677ec84cd_technicalwriting_fixed.pdf
 file_size: 136103
 file_type: application/pdf
 learning_resource_types:

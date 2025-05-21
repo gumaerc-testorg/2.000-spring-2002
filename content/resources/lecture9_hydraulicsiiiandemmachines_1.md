@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Hydraulic machines III and EM machines '
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/23ed43a0031d3d63fcb3ef3ce9c53b7b_lecture9_hydraulicsIIIandEMmachines_1.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/23ed43a0031d3d63fcb3ef3ce9c53b7b_lecture9_hydraulicsIIIandEMmachines_1.pdf
 file_size: 547681
 file_type: application/pdf
 learning_resource_types:

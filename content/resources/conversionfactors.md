@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.000 Preferred Units & Conversion Factors
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/57257ab1c5ebf8526c8da95d89b2d154_ConversionFactors.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/57257ab1c5ebf8526c8da95d89b2d154_ConversionFactors.pdf
 file_size: 14811
 file_type: application/pdf
 learning_resource_types: []

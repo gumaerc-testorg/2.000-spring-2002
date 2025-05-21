@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: SolidWorks? animation.
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/bca1fec762538c94df95ce8b6271f831_ani_shell.gif
+file: /courses/2-000-how-and-why-machines-work-spring-2002/bca1fec762538c94df95ce8b6271f831_ani_shell.gif
 file_size: 29244
 file_type: image/gif
 image_metadata:

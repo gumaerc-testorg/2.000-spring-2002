@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Microsoft PowerPoint tutorial
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/3354c4dc89e644894302481137b1c2a0_presentation.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/3354c4dc89e644894302481137b1c2a0_presentation.pdf
 file_size: 299178
 file_type: application/pdf
 learning_resource_types:

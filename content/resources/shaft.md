@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Shaft
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/c7cc9c103a7c6772f7cc8ff7ba1fe3c4_shaft.SLDPRT
+file: /courses/2-000-how-and-why-machines-work-spring-2002/c7cc9c103a7c6772f7cc8ff7ba1fe3c4_shaft.SLDPRT
 file_size: 120832
 file_type: application/msword
 learning_resource_types:

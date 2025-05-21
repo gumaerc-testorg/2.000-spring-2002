@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'LAB 4, PROBLEM # 7: ALARM CLOCK GEAR TRAIN'
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/03b4927196147663132355d798f7ac24_lab4handout.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/03b4927196147663132355d798f7ac24_lab4handout.pdf
 file_size: 22954
 file_type: application/pdf
 learning_resource_types: []
