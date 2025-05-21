@@ -2,7 +2,7 @@
 content_type: resource
 description: '2.000 Homework # 4: Machine components'
 draft: false
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/538fffc6ac6506d8e5ad86716a6eba9c_Homework4_machinecomponentsandsystems.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/538fffc6ac6506d8e5ad86716a6eba9c_Homework4_machinecomponentsandsystems.pdf
 file_size: 210947
 file_type: application/pdf
 image_metadata:

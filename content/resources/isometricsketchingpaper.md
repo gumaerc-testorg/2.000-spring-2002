@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Isometric Sketching Paper
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/aae08b2d6cd7215242a1d468797c138b_isometricsketchingpaper.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/aae08b2d6cd7215242a1d468797c138b_isometricsketchingpaper.pdf
 file_size: 13963
 file_type: application/pdf
 learning_resource_types: []

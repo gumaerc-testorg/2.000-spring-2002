@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.000 Digital Camera Help
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/fb577950b0c6b32a86f282617b557b99_digitalcamera.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/fb577950b0c6b32a86f282617b557b99_digitalcamera.pdf
 file_size: 264003
 file_type: application/pdf
 learning_resource_types:

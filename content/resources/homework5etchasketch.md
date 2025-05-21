@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '2.000 Homework 5: Etch-a-Sketch Homework and Grading'
-file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/f1716fa773c3c9557e96b4e5b47e93f4_homework5etchasketch.pdf
+file: /courses/2-000-how-and-why-machines-work-spring-2002/f1716fa773c3c9557e96b4e5b47e93f4_homework5etchasketch.pdf
 file_size: 21804
 file_type: application/pdf
 learning_resource_types:
