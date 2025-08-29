@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "2.000 How and Why Machines Work, Lecture # 2\r\n"
-file: /courses/2-000-how-and-why-machines-work-spring-2002/87856eefc0c966f97e803c3a7c6a8e14_lecture2_sketchingunitsbalancesmanagement.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/87856eefc0c966f97e803c3a7c6a8e14_lecture2_sketchingunitsbalancesmanagement.pdf
 file_size: 1902456
 file_type: application/pdf
 learning_resource_types:

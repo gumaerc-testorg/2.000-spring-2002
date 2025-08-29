@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to creating DXF files for
   the waterjet.
-file: /courses/2-000-how-and-why-machines-work-spring-2002/1b56caf75c602c8d1a2e203cdba3ed93_2_000_DXF_Tutorial.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/1b56caf75c602c8d1a2e203cdba3ed93_2_000_DXF_Tutorial.pdf
 file_size: 558722
 file_type: application/pdf
 learning_resource_types:
