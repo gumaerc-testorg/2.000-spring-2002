@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: CAD Tutorial - 2
-file: /courses/2-000-how-and-why-machines-work-spring-2002/742a38d6fdb230ef566b87079fb4f2f6_cad2.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/742a38d6fdb230ef566b87079fb4f2f6_cad2.pdf
 file_size: 69091
 file_type: application/pdf
 learning_resource_types:

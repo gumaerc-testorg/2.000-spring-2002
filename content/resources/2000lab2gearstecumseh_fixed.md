@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: '2.000 Lab # 2 ? Tecumseh Transmission'
-file: /courses/2-000-how-and-why-machines-work-spring-2002/c00c27146308378107befe26769a3442_2000lab2gearstecumseh_fixed.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/c00c27146308378107befe26769a3442_2000lab2gearstecumseh_fixed.pdf
 file_size: 109584
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

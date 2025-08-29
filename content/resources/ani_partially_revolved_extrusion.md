@@ -2,7 +2,7 @@
 content_type: resource
 description: A SolidWorks? model of a partially revolved extrusion. (Image by Prof.
   Martin Culpepper.)
-file: /courses/2-000-how-and-why-machines-work-spring-2002/a4dd111615945c919b74f0bf4b99fdcb_ani_partially_revolved_extrusion.gif
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/a4dd111615945c919b74f0bf4b99fdcb_ani_partially_revolved_extrusion.gif
 file_size: 16166
 file_type: image/gif
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
