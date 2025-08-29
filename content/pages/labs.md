@@ -2,7 +2,7 @@
 content_type: page
 description: This section contains lab-related reading and preparation material.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: dad906e4-1520-d508-5e9a-a500b3834027

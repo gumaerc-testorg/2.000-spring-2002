@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2.000 Planetary Gear Application & Derivation
-file: /courses/2-000-how-and-why-machines-work-spring-2002/432880e8fab4781d81ef88470751b397_PlanetaryGearTrains.pdf
+file: /ol-ocw-studio-app/courses/2-000-how-and-why-machines-work-spring-2002/432880e8fab4781d81ef88470751b397_PlanetaryGearTrains.pdf
 file_size: 260034
 file_type: application/pdf
 learning_resource_types: []
